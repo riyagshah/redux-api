@@ -1,0 +1,7 @@
+{
+    "todos" : [
+        {"id":1, "value": "raja","isCompleted": true},
+        {"id":2, "value": "bajaa","isCompleted": true},
+        {"id":3, "value": "sajaa","isCompleted": true}
+    ]
+}
